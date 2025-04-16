@@ -17,8 +17,10 @@ Creating the video featured in the presentation using the CNN:
 ```bash
 python3 media_utils.py "models/landscape_128x128_30_color_consistency 92_08_.h5" -v --cc-loss -128 -V "test/videos/Video-test-cromavivo - original.mp4"
 ```
+## Kaggle
+The project is Kaggle-friendly. 
 
-## 6. License
+## License
 
 This project is released under the MIT License.  
 For further details, see the `LICENSE` file included in the repository.
